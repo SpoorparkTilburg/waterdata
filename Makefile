@@ -1,4 +1,3 @@
-SHELL=/bin/bash
 WORKING_DIR=$(shell pwd)/build
 TODAY=$(shell date +%Y%m%d)
 WATERDATA_HOME=$(shell pwd)

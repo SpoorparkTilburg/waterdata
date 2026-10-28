@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # usage: create-tag.sh [-M|-m|-p][-d]
 # defaults to -m
